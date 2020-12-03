@@ -278,7 +278,8 @@ body {
 
 #sidebar-toggle {
     z-index:3;
-    background: #474747;
+    background: lightgrey;
+    color:black;
     border-radius: 3px;
     display: block;
     position: relative;
@@ -291,7 +292,7 @@ body {
     width: 28px;
     margin-bottom: 4px;
     height: 4px;
-    background-color: white;
+    background-color: black;
     border-radius: 4px;
 }
 
